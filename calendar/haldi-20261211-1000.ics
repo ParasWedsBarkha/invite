@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wedding Album//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barkha & Paras
+BEGIN:VEVENT
+UID:20261211T043000Z-haldi-barkha-and-paras@wedding-album
+DTSTAMP:20261119T064205Z
+DTSTART:20261211T043000Z
+DTEND:20261211T073000Z
+SUMMARY:Haldi · Barkha & Paras
+LOCATION:The Saffron Anandamvillas
+DESCRIPTION:Haldi at The Saffron Anandamvillas.\nDirections: https://maps.a
+ pp.goo.gl/4UwHdujj49JGQyM37
+URL:https://maps.app.goo.gl/4UwHdujj49JGQyM37
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wedding Album//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barkha & Paras · Wedding
+BEGIN:VEVENT
+UID:20261209T093000Z-satsang-barkha-and-paras@wedding-album
+DTSTAMP:20261119T064205Z
+DTSTART:20261209T093000Z
+DTEND:20261209T123000Z
+SUMMARY:Satsang · Barkha & Paras
+LOCATION:Tageja's Residence
+DESCRIPTION:Satsang at Tageja's Residence.\nDirections: https://maps.app.go
+ o.gl/FEkimDahaWfZ5zF39
+URL:https://maps.app.goo.gl/FEkimDahaWfZ5zF39
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209T133000Z-mehendi-barkha-and-paras@wedding-album
+DTSTAMP:20261119T064205Z
+DTSTART:20261209T133000Z
+DTEND:20261209T163000Z
+SUMMARY:Mehendi · Barkha & Paras
+LOCATION:Tageja's Residence
+DESCRIPTION:Mehendi at Tageja's Residence.\nDirections: https://maps.app.go
+ o.gl/FEkimDahaWfZ5zF39
+URL:https://maps.app.goo.gl/FEkimDahaWfZ5zF39
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210T133000Z-sagan-barkha-and-paras@wedding-album
+DTSTAMP:20261119T064205Z
+DTSTART:20261210T133000Z
+DTEND:20261210T163000Z
+SUMMARY:Sagan · Barkha & Paras
+LOCATION:The Saffron Anandamvillas
+DESCRIPTION:Sagan at The Saffron Anandamvillas.\nDirections: https://maps.a
+ pp.goo.gl/4UwHdujj49JGQyM37
+URL:https://maps.app.goo.gl/4UwHdujj49JGQyM37
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211T043000Z-haldi-barkha-and-paras@wedding-album
+DTSTAMP:20261119T064205Z
+DTSTART:20261211T043000Z
+DTEND:20261211T073000Z
+SUMMARY:Haldi · Barkha & Paras
+LOCATION:The Saffron Anandamvillas
+DESCRIPTION:Haldi at The Saffron Anandamvillas.\nDirections: https://maps.a
+ pp.goo.gl/4UwHdujj49JGQyM37
+URL:https://maps.app.goo.gl/4UwHdujj49JGQyM37
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211T143000Z-wedding-barkha-and-paras@wedding-album
+DTSTAMP:20261119T064205Z
+DTSTART:20261211T143000Z
+DTEND:20261211T173000Z
+SUMMARY:Wedding · Barkha & Paras
+LOCATION:Saffron Hotel and Banquets
+DESCRIPTION:Wedding at Saffron Hotel and Banquets.\nDirections: https://map
+ s.app.goo.gl/BtdJty4tPj2F1Lwy6
+URL:https://maps.app.goo.gl/BtdJty4tPj2F1Lwy6
+END:VEVENT
+END:VCALENDAR

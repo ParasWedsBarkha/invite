@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wedding Album//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barkha & Paras
+BEGIN:VEVENT
+UID:20261209T093000Z-satsang-barkha-and-paras@wedding-album
+DTSTAMP:20261119T064205Z
+DTSTART:20261209T093000Z
+DTEND:20261209T123000Z
+SUMMARY:Satsang · Barkha & Paras
+LOCATION:Tageja's Residence
+DESCRIPTION:Satsang at Tageja's Residence.\nDirections: https://maps.app.go
+ o.gl/FEkimDahaWfZ5zF39
+URL:https://maps.app.goo.gl/FEkimDahaWfZ5zF39
+END:VEVENT
+END:VCALENDAR

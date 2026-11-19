@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wedding Album//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barkha & Paras
+BEGIN:VEVENT
+UID:20261211T143000Z-wedding-barkha-and-paras@wedding-album
+DTSTAMP:20261119T064205Z
+DTSTART:20261211T143000Z
+DTEND:20261211T173000Z
+SUMMARY:Wedding · Barkha & Paras
+LOCATION:Saffron Hotel and Banquets
+DESCRIPTION:Wedding at Saffron Hotel and Banquets.\nDirections: https://map
+ s.app.goo.gl/BtdJty4tPj2F1Lwy6
+URL:https://maps.app.goo.gl/BtdJty4tPj2F1Lwy6
+END:VEVENT
+END:VCALENDAR
